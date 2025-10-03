@@ -1,7 +1,7 @@
-# Refinando um Projeto Conceitual de Banco de Dados
+# Projeto de Banco de Dados para E-Commerce
 
 ## Descrição 📋
-Projeto prático desenvolvido na plataforma **DIO** em parceria com a **Randstad**, com o objetivo de replicar a modelagem do projeto lógico de banco de dados para o cenário de E-commerce
+Projeto prático desenvolvido na plataforma **DIO** em parceria com a **Randstad**, com o objetivo de replicar a modelagem do projeto lógico de banco de dados para o cenário de E-commerce.
 
 ## Objetivo 🎯
 O objetivo do projeto é realizar a criação do script SQL para definição do esquema do banco de dados. Em seguida, realizar a persistência de dados para fins de teste. Também é necessário especificar consultas SQL mais complexas do que as apresentadas durante a explicação do desafio, incluindo cláusulas como as listadas abaixo.
